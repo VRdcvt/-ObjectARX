@@ -1,0 +1,1 @@
+﻿E:\Desktop\практика\NRXproj 25.02 (скрипт для нанокад)\NRXproj\NRXproj.vcxproj(74,5): error MSB4019: импортированный проект "C:\SDK\include\arxgate\rxsdk_debugcfg.props" не найден. Проверьте правильность выражения в объявлении Import "C:\SDK\include\arxgate\rxsdk_debugcfg.props" и наличие файла на диске.
